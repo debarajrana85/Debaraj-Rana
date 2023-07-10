@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Debaraj Rana
 - 👀 I’m interested in learning new technology
-- 🌱 I’m currentlly working on Biomedical Image Processing
+- 🌱 I’m currently working on Biomedical Image Processing
 - 💞️ I'm a full-time Research Scholar at NIT Meghalaya.
 
 <!---
